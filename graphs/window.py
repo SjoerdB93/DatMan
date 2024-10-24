@@ -32,7 +32,7 @@ class PythonWindow(Graphs.Window):
                 item_.reset(old_style, new_style)
             count = 0
             for item_ in data:
-                if isinstance(item_, item.DataItem) \
+                if isinstance(item_, (item.DataItem, item.EquationItem)) \
                         and item_.get_color() in old_cycle:
                     if count > len(new_cycle):
                         count = 0
