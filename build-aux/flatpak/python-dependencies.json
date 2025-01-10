@@ -127,8 +127,8 @@
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/4e/b9/1c6e9f6dcb103ac5cf87cb695845f5fa71379021500153566d8a8a9fc291/kiwisolver-1.4.8-cp313-cp313-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-            "sha256": "3ddc373e0eef45b59197de815b1b28ef89ae3955e7722cc9710fb91cd77b7f47",
+            "url": "https://files.pythonhosted.org/packages/29/61/39d30b99954e6b46f760e6289c12fede2ab96a254c443639052d1b573fbc/kiwisolver-1.4.8-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+            "sha256": "257af1622860e51b1a9d0ce387bf5c2c4f36a90594cb9514f55b074bcc787cfc",
             "only-arches": "aarch64",
             "x-checker-data": {
                 "type": "pypi",
